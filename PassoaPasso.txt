@@ -1,0 +1,11 @@
+ - Lista de tarefas: 
+
+	- Arrumar uma forma de guardar as tarefas em uma lista;
+	
+	- Arrumar uma forma de mostrar as tarefas da lista;
+
+	- Arrumar uma forma de adicionar novas tarefas;
+	
+	- Arrumar uma forma de mudar as tarefas;
+
+	- Arrumar uma forma de deletar as tarefas;
